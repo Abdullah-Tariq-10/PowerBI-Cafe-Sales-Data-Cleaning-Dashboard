@@ -1,4 +1,4 @@
-☕ Café Sales Data Analysis & Business Intelligence Dashboard
+☕ Café Sales Performance & Customer Insights
 
 📌 Project Overview
 
@@ -10,7 +10,27 @@ The goal was to move beyond simple reporting to provide strategic recommendation
 
 Cafe_Sales_Insights.pbix - The complete Power BI project file (Data Cleaning + Dashboard).
 
+dirty_cafe_sales.csv - The raw dataset used for this project.
+
 README.md - Project documentation.
+
+assets/ - Folder containing dashboard screenshots and visual assets:
+
+dashboard_overview.png - Executive Dashboard View
+
+monthly_sales.png - Monthly Sales Volatility & Trends
+
+sales_trend.png - Daily Sales & Segmentation Analysis
+
+item_performance.png - Product Ranking & Revenue Analysis
+
+location_performance.png - Sales by Store Location
+
+preferred_payment.png - Customer Payment Preferences
+
+📸 Dashboard Visuals
+
+Figure 1: Complete Executive Dashboard showing Key Performance Indicators and Trends.
 
 🛑 The Business Problem
 
@@ -49,7 +69,7 @@ Time Intelligence: Created Transaction Month and Day of Week columns from the ra
 
 Sorting Logic: Created hidden numerical sort columns (Month Number, Day Number) to ensure chronological sorting in visualizations.
 
-📊 Dashboard & Key Insights
+📊 Key Insights & Recommendations
 
 The analysis revealed distinct patterns in customer behavior and sales volatility.
 
@@ -57,7 +77,7 @@ The analysis revealed distinct patterns in customer behavior and sales volatilit
 
 Monthly Volatility: Sales are highly seasonal. The annual trough is in May, while peaks occur in January and November, indicating a strong late-year "seasonal rush."
 
-Daily Operations:
+Daily Segmentation (Key Finding):
 
 Peak Revenue Day: Thursday (Highest total sales volume).
 
