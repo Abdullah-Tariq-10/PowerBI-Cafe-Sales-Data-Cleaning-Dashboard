@@ -1,6 +1,6 @@
 # ☕ Café Sales Performance & Customer Insights
 
-![Dashboard Overview](assets/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 ## 📌 Project Overview
 This project transforms raw, "dirty" sales records from a local café into actionable business intelligence. Using **Power BI** and **Power Query**, I cleaned inconsistent data, engineered new time-series features, and built an interactive dashboard to uncover sales trends, product performance, and customer behavior patterns.
@@ -15,7 +15,12 @@ The goal was to move beyond simple reporting to provide strategic recommendation
 | :--- | :--- |
 | **`Cafe_Sales_Insights.pbix`** | The complete Power BI project file (Data Cleaning + Dashboard). |
 | **`dirty_cafe_sales.csv`** | The raw dataset used for this project. |
-| **`README.md`** | Project documentation. |
+| **`dashboard_overview.png`** | Executive dashboard screenshot. |
+| **`monthly_sales.png`** | Visualization: Seasonality & trends. |
+| **`sales_trend.png`** | Visualization: Daily sales segmentation. |
+| **`item_performance.png`** | Visualization: Product revenue ranking. |
+| **`location_performance.png`** | Visualization: Sales by location. |
+| **`preferred_payment.png`** | Visualization: Customer payment methods. |
 
 ---
 
